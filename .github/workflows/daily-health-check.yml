@@ -1,0 +1,42 @@
+name: Daily public IP health check
+
+on:
+  schedule:
+    - cron: "15 21 * * *" # 06:15 JST
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - monitor.py
+      - test_monitor.py
+      - targets.json
+      - .github/workflows/daily-health-check.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: public-ip-health-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate response handling
+        run: python -m unittest -v test_monitor.py
+      - name: Check DNS, root DNS, NTP and ICMP
+        run: python monitor.py --targets targets.json --output health.json
+      - name: Publish latest result
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add health.json
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update public IP health status"
+          git push
