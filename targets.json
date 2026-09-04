@@ -1,0 +1,1354 @@
+[
+  {
+    "address": "8.8.8.8",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Google",
+    "service": "Google Public DNS",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "8.8.4.4",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Google",
+    "service": "Google Public DNS",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2001:4860:4860::8888",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Google",
+    "service": "Google Public DNS",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2001:4860:4860::8844",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Google",
+    "service": "Google Public DNS",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "1.1.1.1",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Cloudflare",
+    "service": "1.1.1.1 Standard",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "1.0.0.1",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Cloudflare",
+    "service": "1.1.1.1 Standard",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:4700:4700::1111",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Cloudflare",
+    "service": "1.1.1.1 Standard",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:4700:4700::1001",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Cloudflare",
+    "service": "1.1.1.1 Standard",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "1.1.1.2",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Cloudflare",
+    "service": "1.1.1.1 Malware blocking",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "1.0.0.2",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Cloudflare",
+    "service": "1.1.1.1 Malware blocking",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:4700:4700::1112",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Cloudflare",
+    "service": "1.1.1.1 Malware blocking",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:4700:4700::1002",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Cloudflare",
+    "service": "1.1.1.1 Malware blocking",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "1.1.1.3",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Cloudflare",
+    "service": "1.1.1.1 Family",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "1.0.0.3",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Cloudflare",
+    "service": "1.1.1.1 Family",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:4700:4700::1113",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Cloudflare",
+    "service": "1.1.1.1 Family",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:4700:4700::1003",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Cloudflare",
+    "service": "1.1.1.1 Family",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "9.9.9.9",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Quad9",
+    "service": "Quad9 Secure",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "149.112.112.112",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Quad9",
+    "service": "Quad9 Secure",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2620:fe::fe",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Quad9",
+    "service": "Quad9 Secure",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2620:fe::9",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Quad9",
+    "service": "Quad9 Secure",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "9.9.9.11",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Quad9",
+    "service": "Quad9 Secure + ECS",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "149.112.112.11",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Quad9",
+    "service": "Quad9 Secure + ECS",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2620:fe::11",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Quad9",
+    "service": "Quad9 Secure + ECS",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2620:fe::fe:11",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Quad9",
+    "service": "Quad9 Secure + ECS",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "9.9.9.10",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Quad9",
+    "service": "Quad9 Unsecured",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "149.112.112.10",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Quad9",
+    "service": "Quad9 Unsecured",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2620:fe::10",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Quad9",
+    "service": "Quad9 Unsecured",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2620:fe::fe:10",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Quad9",
+    "service": "Quad9 Unsecured",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "94.140.14.14",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "AdGuard",
+    "service": "AdGuard DNS Default",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "94.140.15.15",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "AdGuard",
+    "service": "AdGuard DNS Default",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2a10:50c0::ad1:ff",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "AdGuard",
+    "service": "AdGuard DNS Default",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2a10:50c0::ad2:ff",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "AdGuard",
+    "service": "AdGuard DNS Default",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "94.140.14.15",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "AdGuard",
+    "service": "AdGuard DNS Family Protection",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "94.140.15.16",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "AdGuard",
+    "service": "AdGuard DNS Family Protection",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2a10:50c0::bad1:ff",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "AdGuard",
+    "service": "AdGuard DNS Family Protection",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2a10:50c0::bad2:ff",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "AdGuard",
+    "service": "AdGuard DNS Family Protection",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "94.140.14.140",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "AdGuard",
+    "service": "AdGuard DNS Non-filtering",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "94.140.14.141",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "AdGuard",
+    "service": "AdGuard DNS Non-filtering",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2a10:50c0::1:ff",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "AdGuard",
+    "service": "AdGuard DNS Non-filtering",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2a10:50c0::2:ff",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "AdGuard",
+    "service": "AdGuard DNS Non-filtering",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.2.0",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Unfiltered",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.10.0",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Unfiltered",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40::0",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Unfiltered",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40:1::0",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Unfiltered",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.2.1",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Malware",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.10.1",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Malware",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40::1",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Malware",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40:1::1",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Malware",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.2.2",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Ads & Tracking",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.10.2",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Ads & Tracking",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40::2",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Ads & Tracking",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40:1::2",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Ads & Tracking",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.2.3",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Social",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.10.3",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Social",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40::3",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Social",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40:1::3",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Social",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.2.4",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Family Friendly",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.10.4",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Family Friendly",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40::4",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Family Friendly",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40:1::4",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Family Friendly",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.2.5",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Uncensored",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.10.5",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Uncensored",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40::5",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Uncensored",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40:1::5",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Uncensored",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.2.32",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D OISD Full",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.10.32",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D OISD Full",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40::32",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D OISD Full",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40:1::32",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D OISD Full",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.2.33",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D OISD Basic",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.10.33",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D OISD Basic",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40::33",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D OISD Basic",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40:1::33",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D OISD Basic",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.2.35",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D StevenBlack Unified",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.10.35",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D StevenBlack Unified",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40::35",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D StevenBlack Unified",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40:1::35",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D StevenBlack Unified",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.2.38",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D 1Hosts Lite",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.10.38",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D 1Hosts Lite",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40::38",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D 1Hosts Lite",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40:1::38",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D 1Hosts Lite",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.2.39",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D 1Hosts Pro",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.10.39",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D 1Hosts Pro",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40::39",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D 1Hosts Pro",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40:1::39",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D 1Hosts Pro",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.2.48",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D 1Hosts Xtra",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.10.48",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D 1Hosts Xtra",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40::48",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D 1Hosts Xtra",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40:1::48",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D 1Hosts Xtra",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.2.37",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Hagezi Light",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.10.37",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Hagezi Light",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40::37",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Hagezi Light",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40:1::37",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Hagezi Light",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.2.40",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Hagezi Normal",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.10.40",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Hagezi Normal",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40::40",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Hagezi Normal",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40:1::40",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Hagezi Normal",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.2.41",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Hagezi Pro",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.10.41",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Hagezi Pro",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40::41",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Hagezi Pro",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40:1::41",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Hagezi Pro",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.2.42",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Hagezi Pro Plus",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.10.42",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Hagezi Pro Plus",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40::42",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Hagezi Pro Plus",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40:1::42",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Hagezi Pro Plus",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.2.45",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Hagezi Ultimate",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.10.45",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Hagezi Ultimate",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40::45",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Hagezi Ultimate",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40:1::45",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Hagezi Ultimate",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.2.46",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Hagezi TIF",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.10.46",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Hagezi TIF",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40::46",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Hagezi TIF",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40:1::46",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D Hagezi TIF",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.2.44",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D AdGuard Filter",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "76.76.10.44",
+    "ipVersion": "IPv4",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D AdGuard Filter",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40::44",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D AdGuard Filter",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "2606:1a40:1::44",
+    "ipVersion": "IPv6",
+    "category": "公開再帰DNS",
+    "provider": "Control D",
+    "service": "Control D AdGuard Filter",
+    "method": "dns-recursive"
+  },
+  {
+    "address": "198.41.0.4",
+    "ipVersion": "IPv4",
+    "category": "DNSルート",
+    "provider": "Verisign",
+    "service": "a.root-servers.net",
+    "method": "dns-root"
+  },
+  {
+    "address": "2001:503:ba3e::2:30",
+    "ipVersion": "IPv6",
+    "category": "DNSルート",
+    "provider": "Verisign",
+    "service": "a.root-servers.net",
+    "method": "dns-root"
+  },
+  {
+    "address": "170.247.170.2",
+    "ipVersion": "IPv4",
+    "category": "DNSルート",
+    "provider": "USC-ISI",
+    "service": "b.root-servers.net",
+    "method": "dns-root"
+  },
+  {
+    "address": "2801:1b8:10::b",
+    "ipVersion": "IPv6",
+    "category": "DNSルート",
+    "provider": "USC-ISI",
+    "service": "b.root-servers.net",
+    "method": "dns-root"
+  },
+  {
+    "address": "192.33.4.12",
+    "ipVersion": "IPv4",
+    "category": "DNSルート",
+    "provider": "Cogent Communications",
+    "service": "c.root-servers.net",
+    "method": "dns-root"
+  },
+  {
+    "address": "2001:500:2::c",
+    "ipVersion": "IPv6",
+    "category": "DNSルート",
+    "provider": "Cogent Communications",
+    "service": "c.root-servers.net",
+    "method": "dns-root"
+  },
+  {
+    "address": "199.7.91.13",
+    "ipVersion": "IPv4",
+    "category": "DNSルート",
+    "provider": "University of Maryland",
+    "service": "d.root-servers.net",
+    "method": "dns-root"
+  },
+  {
+    "address": "2001:500:2d::d",
+    "ipVersion": "IPv6",
+    "category": "DNSルート",
+    "provider": "University of Maryland",
+    "service": "d.root-servers.net",
+    "method": "dns-root"
+  },
+  {
+    "address": "192.203.230.10",
+    "ipVersion": "IPv4",
+    "category": "DNSルート",
+    "provider": "NASA Ames",
+    "service": "e.root-servers.net",
+    "method": "dns-root"
+  },
+  {
+    "address": "2001:500:a8::e",
+    "ipVersion": "IPv6",
+    "category": "DNSルート",
+    "provider": "NASA Ames",
+    "service": "e.root-servers.net",
+    "method": "dns-root"
+  },
+  {
+    "address": "192.5.5.241",
+    "ipVersion": "IPv4",
+    "category": "DNSルート",
+    "provider": "ISC",
+    "service": "f.root-servers.net",
+    "method": "dns-root"
+  },
+  {
+    "address": "2001:500:2f::f",
+    "ipVersion": "IPv6",
+    "category": "DNSルート",
+    "provider": "ISC",
+    "service": "f.root-servers.net",
+    "method": "dns-root"
+  },
+  {
+    "address": "192.112.36.4",
+    "ipVersion": "IPv4",
+    "category": "DNSルート",
+    "provider": "US DoD NIC",
+    "service": "g.root-servers.net",
+    "method": "dns-root"
+  },
+  {
+    "address": "2001:500:12::d0d",
+    "ipVersion": "IPv6",
+    "category": "DNSルート",
+    "provider": "US DoD NIC",
+    "service": "g.root-servers.net",
+    "method": "dns-root"
+  },
+  {
+    "address": "198.97.190.53",
+    "ipVersion": "IPv4",
+    "category": "DNSルート",
+    "provider": "US Army Research Lab",
+    "service": "h.root-servers.net",
+    "method": "dns-root"
+  },
+  {
+    "address": "2001:500:1::53",
+    "ipVersion": "IPv6",
+    "category": "DNSルート",
+    "provider": "US Army Research Lab",
+    "service": "h.root-servers.net",
+    "method": "dns-root"
+  },
+  {
+    "address": "192.36.148.17",
+    "ipVersion": "IPv4",
+    "category": "DNSルート",
+    "provider": "Netnod",
+    "service": "i.root-servers.net",
+    "method": "dns-root"
+  },
+  {
+    "address": "2001:7fe::53",
+    "ipVersion": "IPv6",
+    "category": "DNSルート",
+    "provider": "Netnod",
+    "service": "i.root-servers.net",
+    "method": "dns-root"
+  },
+  {
+    "address": "192.58.128.30",
+    "ipVersion": "IPv4",
+    "category": "DNSルート",
+    "provider": "Verisign",
+    "service": "j.root-servers.net",
+    "method": "dns-root"
+  },
+  {
+    "address": "2001:503:c27::2:30",
+    "ipVersion": "IPv6",
+    "category": "DNSルート",
+    "provider": "Verisign",
+    "service": "j.root-servers.net",
+    "method": "dns-root"
+  },
+  {
+    "address": "193.0.14.129",
+    "ipVersion": "IPv4",
+    "category": "DNSルート",
+    "provider": "RIPE NCC",
+    "service": "k.root-servers.net",
+    "method": "dns-root"
+  },
+  {
+    "address": "2001:7fd::1",
+    "ipVersion": "IPv6",
+    "category": "DNSルート",
+    "provider": "RIPE NCC",
+    "service": "k.root-servers.net",
+    "method": "dns-root"
+  },
+  {
+    "address": "199.7.83.42",
+    "ipVersion": "IPv4",
+    "category": "DNSルート",
+    "provider": "ICANN",
+    "service": "l.root-servers.net",
+    "method": "dns-root"
+  },
+  {
+    "address": "2001:500:9f::42",
+    "ipVersion": "IPv6",
+    "category": "DNSルート",
+    "provider": "ICANN",
+    "service": "l.root-servers.net",
+    "method": "dns-root"
+  },
+  {
+    "address": "202.12.27.33",
+    "ipVersion": "IPv4",
+    "category": "DNSルート",
+    "provider": "WIDE Project",
+    "service": "m.root-servers.net",
+    "method": "dns-root"
+  },
+  {
+    "address": "2001:dc3::35",
+    "ipVersion": "IPv6",
+    "category": "DNSルート",
+    "provider": "WIDE Project",
+    "service": "m.root-servers.net",
+    "method": "dns-root"
+  },
+  {
+    "address": "162.159.200.1",
+    "ipVersion": "IPv4",
+    "category": "公開時刻同期",
+    "provider": "Cloudflare",
+    "service": "time.cloudflare.com",
+    "method": "ntp"
+  },
+  {
+    "address": "162.159.200.123",
+    "ipVersion": "IPv4",
+    "category": "公開時刻同期",
+    "provider": "Cloudflare",
+    "service": "time.cloudflare.com",
+    "method": "ntp"
+  },
+  {
+    "address": "2606:4700:f1::1",
+    "ipVersion": "IPv6",
+    "category": "公開時刻同期",
+    "provider": "Cloudflare",
+    "service": "time.cloudflare.com",
+    "method": "ntp"
+  },
+  {
+    "address": "2606:4700:f1::123",
+    "ipVersion": "IPv6",
+    "category": "公開時刻同期",
+    "provider": "Cloudflare",
+    "service": "time.cloudflare.com",
+    "method": "ntp"
+  },
+  {
+    "address": "129.6.15.28",
+    "ipVersion": "IPv4",
+    "category": "公開時刻同期",
+    "provider": "NIST",
+    "service": "time-a-g.nist.gov",
+    "method": "ntp"
+  },
+  {
+    "address": "129.6.15.29",
+    "ipVersion": "IPv4",
+    "category": "公開時刻同期",
+    "provider": "NIST",
+    "service": "time-b-g.nist.gov",
+    "method": "ntp"
+  },
+  {
+    "address": "129.6.15.30",
+    "ipVersion": "IPv4",
+    "category": "公開時刻同期",
+    "provider": "NIST",
+    "service": "time-c-g.nist.gov",
+    "method": "ntp"
+  },
+  {
+    "address": "129.6.15.27",
+    "ipVersion": "IPv4",
+    "category": "公開時刻同期",
+    "provider": "NIST",
+    "service": "time-d-g.nist.gov",
+    "method": "ntp"
+  },
+  {
+    "address": "2610:20:6f15:15::27",
+    "ipVersion": "IPv6",
+    "category": "公開時刻同期",
+    "provider": "NIST",
+    "service": "time-d-g.nist.gov",
+    "method": "ntp"
+  },
+  {
+    "address": "129.6.15.26",
+    "ipVersion": "IPv4",
+    "category": "公開時刻同期",
+    "provider": "NIST",
+    "service": "time-e-g.nist.gov",
+    "method": "ntp"
+  },
+  {
+    "address": "2610:20:6f15:15::26",
+    "ipVersion": "IPv6",
+    "category": "公開時刻同期",
+    "provider": "NIST",
+    "service": "time-e-g.nist.gov",
+    "method": "ntp"
+  },
+  {
+    "address": "129.6.15.25",
+    "ipVersion": "IPv4",
+    "category": "公開時刻同期",
+    "provider": "NIST",
+    "service": "time-f-g.nist.gov",
+    "method": "ntp"
+  },
+  {
+    "address": "2610:20:6f15:15::25",
+    "ipVersion": "IPv6",
+    "category": "公開時刻同期",
+    "provider": "NIST",
+    "service": "time-f-g.nist.gov",
+    "method": "ntp"
+  },
+  {
+    "address": "132.163.97.1",
+    "ipVersion": "IPv4",
+    "category": "公開時刻同期",
+    "provider": "NIST",
+    "service": "time-a-wwv.nist.gov",
+    "method": "ntp"
+  },
+  {
+    "address": "132.163.97.2",
+    "ipVersion": "IPv4",
+    "category": "公開時刻同期",
+    "provider": "NIST",
+    "service": "time-b-wwv.nist.gov",
+    "method": "ntp"
+  },
+  {
+    "address": "132.163.97.3",
+    "ipVersion": "IPv4",
+    "category": "公開時刻同期",
+    "provider": "NIST",
+    "service": "time-c-wwv.nist.gov",
+    "method": "ntp"
+  },
+  {
+    "address": "132.163.97.4",
+    "ipVersion": "IPv4",
+    "category": "公開時刻同期",
+    "provider": "NIST",
+    "service": "time-d-wwv.nist.gov",
+    "method": "ntp"
+  },
+  {
+    "address": "2610:20:6f97:97::4",
+    "ipVersion": "IPv6",
+    "category": "公開時刻同期",
+    "provider": "NIST",
+    "service": "time-d-wwv.nist.gov",
+    "method": "ntp"
+  },
+  {
+    "address": "132.163.97.6",
+    "ipVersion": "IPv4",
+    "category": "公開時刻同期",
+    "provider": "NIST",
+    "service": "time-e-wwv.nist.gov",
+    "method": "ntp"
+  },
+  {
+    "address": "2610:20:6f97:97::6",
+    "ipVersion": "IPv6",
+    "category": "公開時刻同期",
+    "provider": "NIST",
+    "service": "time-e-wwv.nist.gov",
+    "method": "ntp"
+  },
+  {
+    "address": "132.163.96.1",
+    "ipVersion": "IPv4",
+    "category": "公開時刻同期",
+    "provider": "NIST",
+    "service": "time-a-b.nist.gov",
+    "method": "ntp"
+  },
+  {
+    "address": "132.163.96.2",
+    "ipVersion": "IPv4",
+    "category": "公開時刻同期",
+    "provider": "NIST",
+    "service": "time-b-b.nist.gov",
+    "method": "ntp"
+  },
+  {
+    "address": "132.163.96.3",
+    "ipVersion": "IPv4",
+    "category": "公開時刻同期",
+    "provider": "NIST",
+    "service": "time-c-b.nist.gov",
+    "method": "ntp"
+  },
+  {
+    "address": "132.163.96.4",
+    "ipVersion": "IPv4",
+    "category": "公開時刻同期",
+    "provider": "NIST",
+    "service": "time-d-b.nist.gov",
+    "method": "ntp"
+  },
+  {
+    "address": "2610:20:6f96:96::4",
+    "ipVersion": "IPv6",
+    "category": "公開時刻同期",
+    "provider": "NIST",
+    "service": "time-d-b.nist.gov",
+    "method": "ntp"
+  },
+  {
+    "address": "132.163.96.6",
+    "ipVersion": "IPv4",
+    "category": "公開時刻同期",
+    "provider": "NIST",
+    "service": "time-e-b.nist.gov",
+    "method": "ntp"
+  },
+  {
+    "address": "2610:20:6f96:96::6",
+    "ipVersion": "IPv6",
+    "category": "公開時刻同期",
+    "provider": "NIST",
+    "service": "time-e-b.nist.gov",
+    "method": "ntp"
+  }
+]
