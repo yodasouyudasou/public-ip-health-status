@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T06:19:45Z",
-  "generatedAtJst": "2026-09-04 15:19:45 JST",
-  "durationSeconds": 8.1,
+  "generatedAt": "2026-09-04T23:02:52Z",
+  "generatedAtJst": "2026-09-05 08:02:52 JST",
+  "durationSeconds": 8.2,
   "summary": {
     "total": 169,
-    "up": 89,
+    "up": 88,
     "degraded": 0,
-    "down": 0,
+    "down": 1,
     "unknown": 80
   },
   "runner": {
@@ -20,11 +20,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 4.4,
+      "latencyMs": 18.3,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:37Z",
-      "checkedAtJst": "2026-09-04 15:19:37 JST",
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "checkedAt": "2026-09-04T23:02:44Z",
+      "checkedAtJst": "2026-09-05 08:02:44 JST",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "dns-response"
     },
     "1.0.0.2": {
@@ -32,11 +32,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 5.2,
+      "latencyMs": 20.1,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:37Z",
-      "checkedAtJst": "2026-09-04 15:19:37 JST",
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "checkedAt": "2026-09-04T23:02:44Z",
+      "checkedAtJst": "2026-09-05 08:02:44 JST",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "dns-response"
     },
     "1.0.0.3": {
@@ -44,11 +44,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 7.2,
+      "latencyMs": 21.7,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:37Z",
-      "checkedAtJst": "2026-09-04 15:19:37 JST",
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "checkedAt": "2026-09-04T23:02:44Z",
+      "checkedAtJst": "2026-09-05 08:02:44 JST",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "dns-response"
     },
     "1.1.1.1": {
@@ -56,11 +56,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 5.3,
+      "latencyMs": 19.0,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:37Z",
-      "checkedAtJst": "2026-09-04 15:19:37 JST",
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "checkedAt": "2026-09-04T23:02:44Z",
+      "checkedAtJst": "2026-09-05 08:02:44 JST",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "dns-response"
     },
     "1.1.1.2": {
@@ -68,11 +68,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 5.1,
+      "latencyMs": 22.8,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:37Z",
-      "checkedAtJst": "2026-09-04 15:19:37 JST",
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "checkedAt": "2026-09-04T23:02:44Z",
+      "checkedAtJst": "2026-09-05 08:02:44 JST",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "dns-response"
     },
     "1.1.1.3": {
@@ -80,11 +80,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 6.6,
+      "latencyMs": 24.1,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:37Z",
-      "checkedAtJst": "2026-09-04 15:19:37 JST",
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "checkedAt": "2026-09-04T23:02:44Z",
+      "checkedAtJst": "2026-09-05 08:02:44 JST",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "dns-response"
     },
     "129.6.15.25": {
@@ -92,11 +92,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "NTP UDP/123",
-      "latencyMs": 31.1,
+      "latencyMs": 53.8,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:43Z",
-      "checkedAtJst": "2026-09-04 15:19:43 JST",
-      "attemptedAt": "2026-09-04T06:19:43Z",
+      "checkedAt": "2026-09-04T23:02:50Z",
+      "checkedAtJst": "2026-09-05 08:02:50 JST",
+      "attemptedAt": "2026-09-04T23:02:50Z",
       "detail": "ntp-stratum-1"
     },
     "129.6.15.26": {
@@ -104,11 +104,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "NTP UDP/123",
-      "latencyMs": 29.3,
+      "latencyMs": 54.0,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:43Z",
-      "checkedAtJst": "2026-09-04 15:19:43 JST",
-      "attemptedAt": "2026-09-04T06:19:43Z",
+      "checkedAt": "2026-09-04T23:02:50Z",
+      "checkedAtJst": "2026-09-05 08:02:50 JST",
+      "attemptedAt": "2026-09-04T23:02:50Z",
       "detail": "ntp-stratum-1"
     },
     "129.6.15.27": {
@@ -116,11 +116,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "NTP UDP/123",
-      "latencyMs": 31.2,
+      "latencyMs": 53.6,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:43Z",
-      "checkedAtJst": "2026-09-04 15:19:43 JST",
-      "attemptedAt": "2026-09-04T06:19:43Z",
+      "checkedAt": "2026-09-04T23:02:50Z",
+      "checkedAtJst": "2026-09-05 08:02:50 JST",
+      "attemptedAt": "2026-09-04T23:02:50Z",
       "detail": "ntp-stratum-1"
     },
     "129.6.15.28": {
@@ -128,11 +128,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "NTP UDP/123",
-      "latencyMs": 31.9,
+      "latencyMs": 53.7,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:43Z",
-      "checkedAtJst": "2026-09-04 15:19:43 JST",
-      "attemptedAt": "2026-09-04T06:19:43Z",
+      "checkedAt": "2026-09-04T23:02:50Z",
+      "checkedAtJst": "2026-09-05 08:02:50 JST",
+      "attemptedAt": "2026-09-04T23:02:50Z",
       "detail": "ntp-stratum-1"
     },
     "129.6.15.29": {
@@ -140,11 +140,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "NTP UDP/123",
-      "latencyMs": 31.6,
+      "latencyMs": 54.0,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:43Z",
-      "checkedAtJst": "2026-09-04 15:19:43 JST",
-      "attemptedAt": "2026-09-04T06:19:43Z",
+      "checkedAt": "2026-09-04T23:02:50Z",
+      "checkedAtJst": "2026-09-05 08:02:50 JST",
+      "attemptedAt": "2026-09-04T23:02:50Z",
       "detail": "ntp-stratum-1"
     },
     "129.6.15.30": {
@@ -152,11 +152,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "NTP UDP/123",
-      "latencyMs": 29.3,
+      "latencyMs": 54.1,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:43Z",
-      "checkedAtJst": "2026-09-04 15:19:43 JST",
-      "attemptedAt": "2026-09-04T06:19:43Z",
+      "checkedAt": "2026-09-04T23:02:50Z",
+      "checkedAtJst": "2026-09-05 08:02:50 JST",
+      "attemptedAt": "2026-09-04T23:02:50Z",
       "detail": "ntp-stratum-1"
     },
     "132.163.96.1": {
@@ -164,11 +164,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "NTP UDP/123",
-      "latencyMs": 29.5,
+      "latencyMs": 6.8,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:43Z",
-      "checkedAtJst": "2026-09-04 15:19:43 JST",
-      "attemptedAt": "2026-09-04T06:19:43Z",
+      "checkedAt": "2026-09-04T23:02:50Z",
+      "checkedAtJst": "2026-09-05 08:02:50 JST",
+      "attemptedAt": "2026-09-04T23:02:50Z",
       "detail": "ntp-stratum-1"
     },
     "132.163.96.2": {
@@ -176,11 +176,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "NTP UDP/123",
-      "latencyMs": 26.9,
+      "latencyMs": 8.9,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:43Z",
-      "checkedAtJst": "2026-09-04 15:19:43 JST",
-      "attemptedAt": "2026-09-04T06:19:43Z",
+      "checkedAt": "2026-09-04T23:02:50Z",
+      "checkedAtJst": "2026-09-05 08:02:50 JST",
+      "attemptedAt": "2026-09-04T23:02:50Z",
       "detail": "ntp-stratum-1"
     },
     "132.163.96.3": {
@@ -188,11 +188,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "NTP UDP/123",
-      "latencyMs": 27.2,
+      "latencyMs": 8.2,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:43Z",
-      "checkedAtJst": "2026-09-04 15:19:43 JST",
-      "attemptedAt": "2026-09-04T06:19:43Z",
+      "checkedAt": "2026-09-04T23:02:50Z",
+      "checkedAtJst": "2026-09-05 08:02:50 JST",
+      "attemptedAt": "2026-09-04T23:02:50Z",
       "detail": "ntp-stratum-1"
     },
     "132.163.96.4": {
@@ -200,11 +200,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "NTP UDP/123",
-      "latencyMs": 29.3,
+      "latencyMs": 7.1,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:43Z",
-      "checkedAtJst": "2026-09-04 15:19:43 JST",
-      "attemptedAt": "2026-09-04T06:19:43Z",
+      "checkedAt": "2026-09-04T23:02:50Z",
+      "checkedAtJst": "2026-09-05 08:02:50 JST",
+      "attemptedAt": "2026-09-04T23:02:50Z",
       "detail": "ntp-stratum-1"
     },
     "132.163.96.6": {
@@ -212,11 +212,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "NTP UDP/123",
-      "latencyMs": 26.9,
+      "latencyMs": 8.8,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:43Z",
-      "checkedAtJst": "2026-09-04 15:19:43 JST",
-      "attemptedAt": "2026-09-04T06:19:43Z",
+      "checkedAt": "2026-09-04T23:02:50Z",
+      "checkedAtJst": "2026-09-05 08:02:50 JST",
+      "attemptedAt": "2026-09-04T23:02:50Z",
       "detail": "ntp-stratum-1"
     },
     "132.163.97.1": {
@@ -224,11 +224,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "NTP UDP/123",
-      "latencyMs": 27.2,
+      "latencyMs": 7.7,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:43Z",
-      "checkedAtJst": "2026-09-04 15:19:43 JST",
-      "attemptedAt": "2026-09-04T06:19:43Z",
+      "checkedAt": "2026-09-04T23:02:50Z",
+      "checkedAtJst": "2026-09-05 08:02:50 JST",
+      "attemptedAt": "2026-09-04T23:02:50Z",
       "detail": "ntp-stratum-1"
     },
     "132.163.97.2": {
@@ -236,11 +236,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "NTP UDP/123",
-      "latencyMs": 29.5,
+      "latencyMs": 7.0,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:43Z",
-      "checkedAtJst": "2026-09-04 15:19:43 JST",
-      "attemptedAt": "2026-09-04T06:19:43Z",
+      "checkedAt": "2026-09-04T23:02:50Z",
+      "checkedAtJst": "2026-09-05 08:02:50 JST",
+      "attemptedAt": "2026-09-04T23:02:50Z",
       "detail": "ntp-stratum-1"
     },
     "132.163.97.3": {
@@ -248,11 +248,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "NTP UDP/123",
-      "latencyMs": 29.5,
+      "latencyMs": 7.2,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:43Z",
-      "checkedAtJst": "2026-09-04 15:19:43 JST",
-      "attemptedAt": "2026-09-04T06:19:43Z",
+      "checkedAt": "2026-09-04T23:02:50Z",
+      "checkedAtJst": "2026-09-05 08:02:50 JST",
+      "attemptedAt": "2026-09-04T23:02:50Z",
       "detail": "ntp-stratum-1"
     },
     "132.163.97.4": {
@@ -260,11 +260,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "NTP UDP/123",
-      "latencyMs": 29.5,
+      "latencyMs": 7.2,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:43Z",
-      "checkedAtJst": "2026-09-04 15:19:43 JST",
-      "attemptedAt": "2026-09-04T06:19:43Z",
+      "checkedAt": "2026-09-04T23:02:50Z",
+      "checkedAtJst": "2026-09-05 08:02:50 JST",
+      "attemptedAt": "2026-09-04T23:02:50Z",
       "detail": "ntp-stratum-1"
     },
     "132.163.97.6": {
@@ -272,11 +272,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "NTP UDP/123",
-      "latencyMs": 26.9,
+      "latencyMs": 7.7,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:43Z",
-      "checkedAtJst": "2026-09-04 15:19:43 JST",
-      "attemptedAt": "2026-09-04T06:19:43Z",
+      "checkedAt": "2026-09-04T23:02:50Z",
+      "checkedAtJst": "2026-09-05 08:02:50 JST",
+      "attemptedAt": "2026-09-04T23:02:50Z",
       "detail": "ntp-stratum-1"
     },
     "149.112.112.10": {
@@ -284,11 +284,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 3.3,
+      "latencyMs": 9.3,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:37Z",
-      "checkedAtJst": "2026-09-04 15:19:37 JST",
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "checkedAt": "2026-09-04T23:02:44Z",
+      "checkedAtJst": "2026-09-05 08:02:44 JST",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "dns-response"
     },
     "149.112.112.11": {
@@ -296,11 +296,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 7.9,
+      "latencyMs": 6.6,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:37Z",
-      "checkedAtJst": "2026-09-04 15:19:37 JST",
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "checkedAt": "2026-09-04T23:02:44Z",
+      "checkedAtJst": "2026-09-05 08:02:44 JST",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "dns-response"
     },
     "149.112.112.112": {
@@ -308,11 +308,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 5.3,
+      "latencyMs": 10.9,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:37Z",
-      "checkedAtJst": "2026-09-04 15:19:37 JST",
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "checkedAt": "2026-09-04T23:02:44Z",
+      "checkedAtJst": "2026-09-05 08:02:44 JST",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "dns-response"
     },
     "162.159.200.1": {
@@ -320,11 +320,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "NTP UDP/123",
-      "latencyMs": 3.2,
+      "latencyMs": 17.8,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:41Z",
-      "checkedAtJst": "2026-09-04 15:19:41 JST",
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "checkedAt": "2026-09-04T23:02:48Z",
+      "checkedAtJst": "2026-09-05 08:02:48 JST",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "ntp-stratum-3"
     },
     "162.159.200.123": {
@@ -332,11 +332,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "NTP UDP/123",
-      "latencyMs": 2.9,
+      "latencyMs": 18.2,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:43Z",
-      "checkedAtJst": "2026-09-04 15:19:43 JST",
-      "attemptedAt": "2026-09-04T06:19:43Z",
+      "checkedAt": "2026-09-04T23:02:50Z",
+      "checkedAtJst": "2026-09-05 08:02:50 JST",
+      "attemptedAt": "2026-09-04T23:02:50Z",
       "detail": "ntp-stratum-3"
     },
     "170.247.170.2": {
@@ -344,11 +344,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "Root DNS UDP/53",
-      "latencyMs": 49.2,
+      "latencyMs": 24.9,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:41Z",
-      "checkedAtJst": "2026-09-04 15:19:41 JST",
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "checkedAt": "2026-09-04T23:02:48Z",
+      "checkedAtJst": "2026-09-05 08:02:48 JST",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "dns-response"
     },
     "192.112.36.4": {
@@ -356,11 +356,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "Root DNS UDP/53",
-      "latencyMs": 18.0,
+      "latencyMs": 27.6,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:41Z",
-      "checkedAtJst": "2026-09-04 15:19:41 JST",
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "checkedAt": "2026-09-04T23:02:48Z",
+      "checkedAtJst": "2026-09-05 08:02:48 JST",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "dns-response"
     },
     "192.203.230.10": {
@@ -368,11 +368,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "Root DNS UDP/53",
-      "latencyMs": 6.8,
+      "latencyMs": 18.3,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:41Z",
-      "checkedAtJst": "2026-09-04 15:19:41 JST",
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "checkedAt": "2026-09-04T23:02:48Z",
+      "checkedAtJst": "2026-09-05 08:02:48 JST",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "dns-response"
     },
     "192.33.4.12": {
@@ -380,11 +380,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "Root DNS UDP/53",
-      "latencyMs": 7.6,
+      "latencyMs": 25.6,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:41Z",
-      "checkedAtJst": "2026-09-04 15:19:41 JST",
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "checkedAt": "2026-09-04T23:02:48Z",
+      "checkedAtJst": "2026-09-05 08:02:48 JST",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "dns-response"
     },
     "192.36.148.17": {
@@ -392,35 +392,35 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "Root DNS UDP/53",
-      "latencyMs": 17.6,
+      "latencyMs": 45.9,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:41Z",
-      "checkedAtJst": "2026-09-04 15:19:41 JST",
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "checkedAt": "2026-09-04T23:02:48Z",
+      "checkedAtJst": "2026-09-05 08:02:48 JST",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "dns-response"
     },
     "192.5.5.241": {
-      "status": "up",
-      "protocolStatus": "up",
+      "status": "down",
+      "protocolStatus": "down",
       "icmpStatus": "down",
       "method": "Root DNS UDP/53",
-      "latencyMs": 4.0,
+      "latencyMs": 20.7,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:41Z",
-      "checkedAtJst": "2026-09-04 15:19:41 JST",
-      "attemptedAt": "2026-09-04T06:19:41Z",
-      "detail": "dns-response"
+      "checkedAt": "2026-09-04T23:02:48Z",
+      "checkedAtJst": "2026-09-05 08:02:48 JST",
+      "attemptedAt": "2026-09-04T23:02:48Z",
+      "detail": "truncated-response"
     },
     "192.58.128.30": {
       "status": "up",
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "Root DNS UDP/53",
-      "latencyMs": 2.8,
+      "latencyMs": 19.3,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:41Z",
-      "checkedAtJst": "2026-09-04 15:19:41 JST",
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "checkedAt": "2026-09-04T23:02:48Z",
+      "checkedAtJst": "2026-09-05 08:02:48 JST",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "dns-response"
     },
     "193.0.14.129": {
@@ -428,11 +428,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "Root DNS UDP/53",
-      "latencyMs": 96.3,
+      "latencyMs": 122.6,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:41Z",
-      "checkedAtJst": "2026-09-04 15:19:41 JST",
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "checkedAt": "2026-09-04T23:02:48Z",
+      "checkedAtJst": "2026-09-05 08:02:48 JST",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "dns-response"
     },
     "198.41.0.4": {
@@ -440,11 +440,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "Root DNS UDP/53",
-      "latencyMs": 20.3,
+      "latencyMs": 19.5,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:41Z",
-      "checkedAtJst": "2026-09-04 15:19:41 JST",
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "checkedAt": "2026-09-04T23:02:48Z",
+      "checkedAtJst": "2026-09-05 08:02:48 JST",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "dns-response"
     },
     "198.97.190.53": {
@@ -452,11 +452,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "Root DNS UDP/53",
-      "latencyMs": 18.6,
+      "latencyMs": 4.5,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:41Z",
-      "checkedAtJst": "2026-09-04 15:19:41 JST",
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "checkedAt": "2026-09-04T23:02:48Z",
+      "checkedAtJst": "2026-09-05 08:02:48 JST",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "dns-response"
     },
     "199.7.83.42": {
@@ -464,11 +464,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "Root DNS UDP/53",
-      "latencyMs": 5.9,
+      "latencyMs": 32.8,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:41Z",
-      "checkedAtJst": "2026-09-04 15:19:41 JST",
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "checkedAt": "2026-09-04T23:02:48Z",
+      "checkedAtJst": "2026-09-05 08:02:48 JST",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "dns-response"
     },
     "199.7.91.13": {
@@ -476,11 +476,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "Root DNS UDP/53",
-      "latencyMs": 6.5,
+      "latencyMs": 22.8,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:41Z",
-      "checkedAtJst": "2026-09-04 15:19:41 JST",
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "checkedAt": "2026-09-04T23:02:48Z",
+      "checkedAtJst": "2026-09-05 08:02:48 JST",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "dns-response"
     },
     "2001:4860:4860::8844": {
@@ -492,7 +492,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2001:4860:4860::8888": {
@@ -504,7 +504,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2001:500:12::d0d": {
@@ -516,7 +516,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2001:500:1::53": {
@@ -528,7 +528,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2001:500:2::c": {
@@ -540,7 +540,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2001:500:2d::d": {
@@ -552,7 +552,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2001:500:2f::f": {
@@ -564,7 +564,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2001:500:9f::42": {
@@ -576,7 +576,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2001:500:a8::e": {
@@ -588,7 +588,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2001:503:ba3e::2:30": {
@@ -600,7 +600,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2001:503:c27::2:30": {
@@ -612,7 +612,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2001:7fd::1": {
@@ -624,7 +624,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2001:7fe::53": {
@@ -636,7 +636,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2001:dc3::35": {
@@ -648,7 +648,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "ipv6-runner-unavailable"
     },
     "202.12.27.33": {
@@ -656,11 +656,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "Root DNS UDP/53",
-      "latencyMs": 101.9,
+      "latencyMs": 126.5,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:41Z",
-      "checkedAtJst": "2026-09-04 15:19:41 JST",
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "checkedAt": "2026-09-04T23:02:48Z",
+      "checkedAtJst": "2026-09-05 08:02:48 JST",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "dns-response"
     },
     "2606:1a40:1::0": {
@@ -672,7 +672,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40:1::1": {
@@ -684,7 +684,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40:1::2": {
@@ -696,7 +696,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40:1::3": {
@@ -708,7 +708,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40:1::32": {
@@ -720,7 +720,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40:1::33": {
@@ -732,7 +732,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40:1::35": {
@@ -744,7 +744,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40:1::37": {
@@ -756,7 +756,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40:1::38": {
@@ -768,7 +768,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40:1::39": {
@@ -780,7 +780,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40:1::4": {
@@ -792,7 +792,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40:1::40": {
@@ -804,7 +804,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40:1::41": {
@@ -816,7 +816,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40:1::42": {
@@ -828,7 +828,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40:1::44": {
@@ -840,7 +840,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40:1::45": {
@@ -852,7 +852,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40:1::46": {
@@ -864,7 +864,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40:1::48": {
@@ -876,7 +876,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40:1::5": {
@@ -888,7 +888,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40::0": {
@@ -900,7 +900,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40::1": {
@@ -912,7 +912,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40::2": {
@@ -924,7 +924,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40::3": {
@@ -936,7 +936,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40::32": {
@@ -948,7 +948,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40::33": {
@@ -960,7 +960,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40::35": {
@@ -972,7 +972,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40::37": {
@@ -984,7 +984,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40::38": {
@@ -996,7 +996,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40::39": {
@@ -1008,7 +1008,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40::4": {
@@ -1020,7 +1020,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40::40": {
@@ -1032,7 +1032,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40::41": {
@@ -1044,7 +1044,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40::42": {
@@ -1056,7 +1056,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40::44": {
@@ -1068,7 +1068,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40::45": {
@@ -1080,7 +1080,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40::46": {
@@ -1092,7 +1092,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40::48": {
@@ -1104,7 +1104,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:1a40::5": {
@@ -1116,7 +1116,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:4700:4700::1001": {
@@ -1128,7 +1128,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:4700:4700::1002": {
@@ -1140,7 +1140,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:4700:4700::1003": {
@@ -1152,7 +1152,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:4700:4700::1111": {
@@ -1164,7 +1164,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:4700:4700::1112": {
@@ -1176,7 +1176,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:4700:4700::1113": {
@@ -1188,7 +1188,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:4700:f1::1": {
@@ -1200,7 +1200,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:43Z",
+      "attemptedAt": "2026-09-04T23:02:50Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2606:4700:f1::123": {
@@ -1212,7 +1212,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:43Z",
+      "attemptedAt": "2026-09-04T23:02:50Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2610:20:6f15:15::25": {
@@ -1224,7 +1224,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:43Z",
+      "attemptedAt": "2026-09-04T23:02:50Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2610:20:6f15:15::26": {
@@ -1236,7 +1236,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:43Z",
+      "attemptedAt": "2026-09-04T23:02:50Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2610:20:6f15:15::27": {
@@ -1248,7 +1248,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:43Z",
+      "attemptedAt": "2026-09-04T23:02:50Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2610:20:6f96:96::4": {
@@ -1260,7 +1260,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:43Z",
+      "attemptedAt": "2026-09-04T23:02:50Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2610:20:6f96:96::6": {
@@ -1272,7 +1272,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:43Z",
+      "attemptedAt": "2026-09-04T23:02:50Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2610:20:6f97:97::4": {
@@ -1284,7 +1284,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:43Z",
+      "attemptedAt": "2026-09-04T23:02:50Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2610:20:6f97:97::6": {
@@ -1296,7 +1296,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:43Z",
+      "attemptedAt": "2026-09-04T23:02:50Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2620:fe::10": {
@@ -1308,7 +1308,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2620:fe::11": {
@@ -1320,7 +1320,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2620:fe::9": {
@@ -1332,7 +1332,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2620:fe::fe": {
@@ -1344,7 +1344,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2620:fe::fe:10": {
@@ -1356,7 +1356,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2620:fe::fe:11": {
@@ -1368,7 +1368,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2801:1b8:10::b": {
@@ -1380,7 +1380,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2a10:50c0::1:ff": {
@@ -1392,7 +1392,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2a10:50c0::2:ff": {
@@ -1404,7 +1404,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2a10:50c0::ad1:ff": {
@@ -1416,7 +1416,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2a10:50c0::ad2:ff": {
@@ -1428,7 +1428,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2a10:50c0::bad1:ff": {
@@ -1440,7 +1440,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "ipv6-runner-unavailable"
     },
     "2a10:50c0::bad2:ff": {
@@ -1452,7 +1452,7 @@
       "icmpLatencyMs": null,
       "checkedAt": null,
       "checkedAtJst": null,
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "ipv6-runner-unavailable"
     },
     "76.76.10.0": {
@@ -1460,11 +1460,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 5.0,
+      "latencyMs": 16.6,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:37Z",
-      "checkedAtJst": "2026-09-04 15:19:37 JST",
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "checkedAt": "2026-09-04T23:02:44Z",
+      "checkedAtJst": "2026-09-05 08:02:44 JST",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "dns-response"
     },
     "76.76.10.1": {
@@ -1472,11 +1472,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 4.5,
+      "latencyMs": 11.8,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:37Z",
-      "checkedAtJst": "2026-09-04 15:19:37 JST",
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "checkedAt": "2026-09-04T23:02:44Z",
+      "checkedAtJst": "2026-09-05 08:02:44 JST",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "dns-response"
     },
     "76.76.10.2": {
@@ -1484,11 +1484,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 10.2,
+      "latencyMs": 11.8,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:39Z",
-      "checkedAtJst": "2026-09-04 15:19:39 JST",
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "checkedAt": "2026-09-04T23:02:46Z",
+      "checkedAtJst": "2026-09-05 08:02:46 JST",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "dns-response"
     },
     "76.76.10.3": {
@@ -1496,11 +1496,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 6.9,
+      "latencyMs": 9.3,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:39Z",
-      "checkedAtJst": "2026-09-04 15:19:39 JST",
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "checkedAt": "2026-09-04T23:02:46Z",
+      "checkedAtJst": "2026-09-05 08:02:46 JST",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "dns-response"
     },
     "76.76.10.32": {
@@ -1508,11 +1508,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 5.7,
+      "latencyMs": 16.2,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:39Z",
-      "checkedAtJst": "2026-09-04 15:19:39 JST",
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "checkedAt": "2026-09-04T23:02:46Z",
+      "checkedAtJst": "2026-09-05 08:02:46 JST",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "dns-response"
     },
     "76.76.10.33": {
@@ -1520,11 +1520,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 8.1,
+      "latencyMs": 6.6,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:39Z",
-      "checkedAtJst": "2026-09-04 15:19:39 JST",
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "checkedAt": "2026-09-04T23:02:46Z",
+      "checkedAtJst": "2026-09-05 08:02:46 JST",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "dns-response"
     },
     "76.76.10.35": {
@@ -1532,11 +1532,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 11.7,
+      "latencyMs": 10.3,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:39Z",
-      "checkedAtJst": "2026-09-04 15:19:39 JST",
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "checkedAt": "2026-09-04T23:02:46Z",
+      "checkedAtJst": "2026-09-05 08:02:46 JST",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "dns-response"
     },
     "76.76.10.37": {
@@ -1544,11 +1544,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 10.6,
+      "latencyMs": 9.3,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:39Z",
-      "checkedAtJst": "2026-09-04 15:19:39 JST",
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "checkedAt": "2026-09-04T23:02:46Z",
+      "checkedAtJst": "2026-09-05 08:02:46 JST",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "dns-response"
     },
     "76.76.10.38": {
@@ -1556,11 +1556,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 14.4,
+      "latencyMs": 10.2,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:39Z",
-      "checkedAtJst": "2026-09-04 15:19:39 JST",
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "checkedAt": "2026-09-04T23:02:46Z",
+      "checkedAtJst": "2026-09-05 08:02:46 JST",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "dns-response"
     },
     "76.76.10.39": {
@@ -1568,11 +1568,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 5.9,
+      "latencyMs": 12.1,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:39Z",
-      "checkedAtJst": "2026-09-04 15:19:39 JST",
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "checkedAt": "2026-09-04T23:02:46Z",
+      "checkedAtJst": "2026-09-05 08:02:46 JST",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "dns-response"
     },
     "76.76.10.4": {
@@ -1580,11 +1580,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 7.1,
+      "latencyMs": 8.5,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:39Z",
-      "checkedAtJst": "2026-09-04 15:19:39 JST",
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "checkedAt": "2026-09-04T23:02:46Z",
+      "checkedAtJst": "2026-09-05 08:02:46 JST",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "dns-response"
     },
     "76.76.10.40": {
@@ -1592,11 +1592,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 9.9,
+      "latencyMs": 10.9,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:39Z",
-      "checkedAtJst": "2026-09-04 15:19:39 JST",
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "checkedAt": "2026-09-04T23:02:46Z",
+      "checkedAtJst": "2026-09-05 08:02:46 JST",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "dns-response"
     },
     "76.76.10.41": {
@@ -1604,11 +1604,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 5.9,
+      "latencyMs": 7.8,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:41Z",
-      "checkedAtJst": "2026-09-04 15:19:41 JST",
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "checkedAt": "2026-09-04T23:02:48Z",
+      "checkedAtJst": "2026-09-05 08:02:48 JST",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "dns-response"
     },
     "76.76.10.42": {
@@ -1616,11 +1616,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 11.9,
+      "latencyMs": 6.7,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:41Z",
-      "checkedAtJst": "2026-09-04 15:19:41 JST",
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "checkedAt": "2026-09-04T23:02:48Z",
+      "checkedAtJst": "2026-09-05 08:02:48 JST",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "dns-response"
     },
     "76.76.10.44": {
@@ -1628,11 +1628,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 8.1,
+      "latencyMs": 9.1,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:41Z",
-      "checkedAtJst": "2026-09-04 15:19:41 JST",
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "checkedAt": "2026-09-04T23:02:48Z",
+      "checkedAtJst": "2026-09-05 08:02:48 JST",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "dns-response"
     },
     "76.76.10.45": {
@@ -1640,11 +1640,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 10.9,
+      "latencyMs": 7.3,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:41Z",
-      "checkedAtJst": "2026-09-04 15:19:41 JST",
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "checkedAt": "2026-09-04T23:02:48Z",
+      "checkedAtJst": "2026-09-05 08:02:48 JST",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "dns-response"
     },
     "76.76.10.46": {
@@ -1652,11 +1652,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 5.0,
+      "latencyMs": 9.5,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:41Z",
-      "checkedAtJst": "2026-09-04 15:19:41 JST",
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "checkedAt": "2026-09-04T23:02:48Z",
+      "checkedAtJst": "2026-09-05 08:02:48 JST",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "dns-response"
     },
     "76.76.10.48": {
@@ -1664,11 +1664,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 10.4,
+      "latencyMs": 11.5,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:39Z",
-      "checkedAtJst": "2026-09-04 15:19:39 JST",
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "checkedAt": "2026-09-04T23:02:46Z",
+      "checkedAtJst": "2026-09-05 08:02:46 JST",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "dns-response"
     },
     "76.76.10.5": {
@@ -1676,11 +1676,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 9.2,
+      "latencyMs": 15.9,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:39Z",
-      "checkedAtJst": "2026-09-04 15:19:39 JST",
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "checkedAt": "2026-09-04T23:02:46Z",
+      "checkedAtJst": "2026-09-05 08:02:46 JST",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "dns-response"
     },
     "76.76.2.0": {
@@ -1688,11 +1688,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 5.5,
+      "latencyMs": 11.5,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:37Z",
-      "checkedAtJst": "2026-09-04 15:19:37 JST",
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "checkedAt": "2026-09-04T23:02:44Z",
+      "checkedAtJst": "2026-09-05 08:02:44 JST",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "dns-response"
     },
     "76.76.2.1": {
@@ -1700,11 +1700,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 4.7,
+      "latencyMs": 25.2,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:37Z",
-      "checkedAtJst": "2026-09-04 15:19:37 JST",
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "checkedAt": "2026-09-04T23:02:44Z",
+      "checkedAtJst": "2026-09-05 08:02:44 JST",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "dns-response"
     },
     "76.76.2.2": {
@@ -1712,11 +1712,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 8.4,
+      "latencyMs": 9.7,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:39Z",
-      "checkedAtJst": "2026-09-04 15:19:39 JST",
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "checkedAt": "2026-09-04T23:02:46Z",
+      "checkedAtJst": "2026-09-05 08:02:46 JST",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "dns-response"
     },
     "76.76.2.3": {
@@ -1724,11 +1724,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 5.1,
+      "latencyMs": 8.4,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:39Z",
-      "checkedAtJst": "2026-09-04 15:19:39 JST",
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "checkedAt": "2026-09-04T23:02:46Z",
+      "checkedAtJst": "2026-09-05 08:02:46 JST",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "dns-response"
     },
     "76.76.2.32": {
@@ -1736,11 +1736,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 9.3,
+      "latencyMs": 15.0,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:39Z",
-      "checkedAtJst": "2026-09-04 15:19:39 JST",
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "checkedAt": "2026-09-04T23:02:46Z",
+      "checkedAtJst": "2026-09-05 08:02:46 JST",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "dns-response"
     },
     "76.76.2.33": {
@@ -1748,11 +1748,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 6.2,
+      "latencyMs": 10.1,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:39Z",
-      "checkedAtJst": "2026-09-04 15:19:39 JST",
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "checkedAt": "2026-09-04T23:02:46Z",
+      "checkedAtJst": "2026-09-05 08:02:46 JST",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "dns-response"
     },
     "76.76.2.35": {
@@ -1760,11 +1760,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 13.8,
+      "latencyMs": 16.1,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:39Z",
-      "checkedAtJst": "2026-09-04 15:19:39 JST",
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "checkedAt": "2026-09-04T23:02:46Z",
+      "checkedAtJst": "2026-09-05 08:02:46 JST",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "dns-response"
     },
     "76.76.2.37": {
@@ -1772,11 +1772,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 9.2,
+      "latencyMs": 12.6,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:39Z",
-      "checkedAtJst": "2026-09-04 15:19:39 JST",
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "checkedAt": "2026-09-04T23:02:46Z",
+      "checkedAtJst": "2026-09-05 08:02:46 JST",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "dns-response"
     },
     "76.76.2.38": {
@@ -1784,11 +1784,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 11.8,
+      "latencyMs": 9.2,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:39Z",
-      "checkedAtJst": "2026-09-04 15:19:39 JST",
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "checkedAt": "2026-09-04T23:02:46Z",
+      "checkedAtJst": "2026-09-05 08:02:46 JST",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "dns-response"
     },
     "76.76.2.39": {
@@ -1796,11 +1796,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 7.6,
+      "latencyMs": 13.4,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:39Z",
-      "checkedAtJst": "2026-09-04 15:19:39 JST",
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "checkedAt": "2026-09-04T23:02:46Z",
+      "checkedAtJst": "2026-09-05 08:02:46 JST",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "dns-response"
     },
     "76.76.2.4": {
@@ -1808,11 +1808,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 11.8,
+      "latencyMs": 9.3,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:39Z",
-      "checkedAtJst": "2026-09-04 15:19:39 JST",
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "checkedAt": "2026-09-04T23:02:46Z",
+      "checkedAtJst": "2026-09-05 08:02:46 JST",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "dns-response"
     },
     "76.76.2.40": {
@@ -1820,11 +1820,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 9.5,
+      "latencyMs": 13.5,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:39Z",
-      "checkedAtJst": "2026-09-04 15:19:39 JST",
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "checkedAt": "2026-09-04T23:02:46Z",
+      "checkedAtJst": "2026-09-05 08:02:46 JST",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "dns-response"
     },
     "76.76.2.41": {
@@ -1832,11 +1832,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 4.9,
+      "latencyMs": 7.2,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:41Z",
-      "checkedAtJst": "2026-09-04 15:19:41 JST",
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "checkedAt": "2026-09-04T23:02:48Z",
+      "checkedAtJst": "2026-09-05 08:02:48 JST",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "dns-response"
     },
     "76.76.2.42": {
@@ -1844,11 +1844,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 5.2,
+      "latencyMs": 8.0,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:41Z",
-      "checkedAtJst": "2026-09-04 15:19:41 JST",
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "checkedAt": "2026-09-04T23:02:48Z",
+      "checkedAtJst": "2026-09-05 08:02:48 JST",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "dns-response"
     },
     "76.76.2.44": {
@@ -1856,11 +1856,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 9.3,
+      "latencyMs": 12.3,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:41Z",
-      "checkedAtJst": "2026-09-04 15:19:41 JST",
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "checkedAt": "2026-09-04T23:02:48Z",
+      "checkedAtJst": "2026-09-05 08:02:48 JST",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "dns-response"
     },
     "76.76.2.45": {
@@ -1868,11 +1868,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 5.0,
+      "latencyMs": 10.7,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:41Z",
-      "checkedAtJst": "2026-09-04 15:19:41 JST",
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "checkedAt": "2026-09-04T23:02:48Z",
+      "checkedAtJst": "2026-09-05 08:02:48 JST",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "dns-response"
     },
     "76.76.2.46": {
@@ -1880,11 +1880,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 7.5,
+      "latencyMs": 7.8,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:41Z",
-      "checkedAtJst": "2026-09-04 15:19:41 JST",
-      "attemptedAt": "2026-09-04T06:19:41Z",
+      "checkedAt": "2026-09-04T23:02:48Z",
+      "checkedAtJst": "2026-09-05 08:02:48 JST",
+      "attemptedAt": "2026-09-04T23:02:48Z",
       "detail": "dns-response"
     },
     "76.76.2.48": {
@@ -1892,11 +1892,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 7.1,
+      "latencyMs": 10.3,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:39Z",
-      "checkedAtJst": "2026-09-04 15:19:39 JST",
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "checkedAt": "2026-09-04T23:02:46Z",
+      "checkedAtJst": "2026-09-05 08:02:46 JST",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "dns-response"
     },
     "76.76.2.5": {
@@ -1904,11 +1904,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 9.0,
+      "latencyMs": 12.1,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:39Z",
-      "checkedAtJst": "2026-09-04 15:19:39 JST",
-      "attemptedAt": "2026-09-04T06:19:39Z",
+      "checkedAt": "2026-09-04T23:02:46Z",
+      "checkedAtJst": "2026-09-05 08:02:46 JST",
+      "attemptedAt": "2026-09-04T23:02:46Z",
       "detail": "dns-response"
     },
     "8.8.4.4": {
@@ -1916,11 +1916,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 23.7,
+      "latencyMs": 46.1,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:37Z",
-      "checkedAtJst": "2026-09-04 15:19:37 JST",
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "checkedAt": "2026-09-04T23:02:44Z",
+      "checkedAtJst": "2026-09-05 08:02:44 JST",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "dns-response"
     },
     "8.8.8.8": {
@@ -1928,11 +1928,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 23.4,
+      "latencyMs": 47.2,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:37Z",
-      "checkedAtJst": "2026-09-04 15:19:37 JST",
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "checkedAt": "2026-09-04T23:02:44Z",
+      "checkedAtJst": "2026-09-05 08:02:44 JST",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "dns-response"
     },
     "9.9.9.10": {
@@ -1940,11 +1940,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 2.6,
+      "latencyMs": 9.6,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:37Z",
-      "checkedAtJst": "2026-09-04 15:19:37 JST",
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "checkedAt": "2026-09-04T23:02:44Z",
+      "checkedAtJst": "2026-09-05 08:02:44 JST",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "dns-response"
     },
     "9.9.9.11": {
@@ -1952,11 +1952,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 8.7,
+      "latencyMs": 30.1,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:37Z",
-      "checkedAtJst": "2026-09-04 15:19:37 JST",
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "checkedAt": "2026-09-04T23:02:44Z",
+      "checkedAtJst": "2026-09-05 08:02:44 JST",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "dns-response"
     },
     "9.9.9.9": {
@@ -1964,11 +1964,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 6.8,
+      "latencyMs": 5.8,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:37Z",
-      "checkedAtJst": "2026-09-04 15:19:37 JST",
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "checkedAt": "2026-09-04T23:02:44Z",
+      "checkedAtJst": "2026-09-05 08:02:44 JST",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "dns-response"
     },
     "94.140.14.14": {
@@ -1976,11 +1976,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 18.0,
+      "latencyMs": 34.5,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:37Z",
-      "checkedAtJst": "2026-09-04 15:19:37 JST",
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "checkedAt": "2026-09-04T23:02:44Z",
+      "checkedAtJst": "2026-09-05 08:02:44 JST",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "dns-response"
     },
     "94.140.14.140": {
@@ -1988,11 +1988,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 17.8,
+      "latencyMs": 33.0,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:37Z",
-      "checkedAtJst": "2026-09-04 15:19:37 JST",
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "checkedAt": "2026-09-04T23:02:44Z",
+      "checkedAtJst": "2026-09-05 08:02:44 JST",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "dns-response"
     },
     "94.140.14.141": {
@@ -2000,11 +2000,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 18.1,
+      "latencyMs": 32.7,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:37Z",
-      "checkedAtJst": "2026-09-04 15:19:37 JST",
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "checkedAt": "2026-09-04T23:02:44Z",
+      "checkedAtJst": "2026-09-05 08:02:44 JST",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "dns-response"
     },
     "94.140.14.15": {
@@ -2012,11 +2012,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 18.6,
+      "latencyMs": 32.2,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:37Z",
-      "checkedAtJst": "2026-09-04 15:19:37 JST",
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "checkedAt": "2026-09-04T23:02:44Z",
+      "checkedAtJst": "2026-09-05 08:02:44 JST",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "dns-response"
     },
     "94.140.15.15": {
@@ -2024,11 +2024,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 18.1,
+      "latencyMs": 33.0,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:37Z",
-      "checkedAtJst": "2026-09-04 15:19:37 JST",
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "checkedAt": "2026-09-04T23:02:44Z",
+      "checkedAtJst": "2026-09-05 08:02:44 JST",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "dns-response"
     },
     "94.140.15.16": {
@@ -2036,11 +2036,11 @@
       "protocolStatus": "up",
       "icmpStatus": "down",
       "method": "DNS UDP/53",
-      "latencyMs": 18.3,
+      "latencyMs": 32.5,
       "icmpLatencyMs": null,
-      "checkedAt": "2026-09-04T06:19:37Z",
-      "checkedAtJst": "2026-09-04 15:19:37 JST",
-      "attemptedAt": "2026-09-04T06:19:37Z",
+      "checkedAt": "2026-09-04T23:02:44Z",
+      "checkedAtJst": "2026-09-05 08:02:44 JST",
+      "attemptedAt": "2026-09-04T23:02:44Z",
       "detail": "dns-response"
     }
   }
